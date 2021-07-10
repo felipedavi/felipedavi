@@ -1,8 +1,6 @@
 # Wellcome here! 
 
-
-## <center>Hi 👋, I'm Felipe Oliveira</center>
-
+<h2 align="center">Hi 👋, I'm Felipe Oliveira</h2>
 
 "Success is going from failure to failure without losing enthusiasm." - Winston Churchill
 

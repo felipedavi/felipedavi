@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm Felipe Oliveira</h2>
 
-"Success is going from failure to failure without losing enthusiasm." - Winston Churchill
+<h5 align="center">"Success is going from failure to failure without losing enthusiasm." - Winston Churchill</h5>
 
 ## About me
 

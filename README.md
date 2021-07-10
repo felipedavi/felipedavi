@@ -8,11 +8,16 @@
 
 I'm graduated by IFRJ (Federal Institute of Rio de Janeiro) in Computer Technician.
 
-### Here some informations about me
 
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipedavi&theme=vue&show_icons=true&icon_color=03ADDF&title_color=03ADDF&bg_color=0D1117&text_color=fafafa)   |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipedavi&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa)  |
-| ------------------- | ------------------- |
+<h2 align="center">Github stats :bar_chart:</h2>
 
+<p align="center" id="top-langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedavi&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa">
+</p>
+
+<p align="center" id="github-resume-status">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipedavi&theme=vue&show_icons=true&icon_color=03ADDF&title_color=03ADDF&bg_color=0D1117&text_color=fafafa">
+</p>
 
 ### :earth_americas: &nbsp;Where to find me:
 

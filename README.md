@@ -6,8 +6,7 @@
 
 ## About me
 
-I'm graduated by IFRJ (Federal Institute of Rio de Janeiro) in Computer Technician.
-
+I'm a college sophomore taking a graduation in Computing degree by IFRJ (Federal Institute of Rio de Janeiro) where I am also trained as a Computer Technician.
 
 <h2 align="center">Github stats :bar_chart:</h2>
 

@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm a college sophomore taking a graduation in Computing degree by [Instituto Federal do Rio de Janeiro](https://portal.ifrj.edu.br) where I am also trained as a Computer Technician.
+Currently attending third year de Bachelor of Computer Science with Brazilian Teaching License at [Instituto Federal do Rio de Janeiro](https://portal.ifrj.edu.br). Expected graduation in December 2023.I am also a Computer Technician at the same Educational Institution.
 
 <h2 align="center">Github stats :bar_chart:</h2>
 

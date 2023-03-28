@@ -1,4 +1,4 @@
-# Wellcome here! 
+# Welcome here! 
 
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Felipe Oliveira</h2>
 
@@ -8,7 +8,7 @@
 
 Currently studying the last year of the Bachelor of Science in Computer Science with Brazilian Teaching License at [Instituto Federal do Rio de Janeiro](https://portal.ifrj.edu.br). Expected graduation in December 2023.I am also a Computer Technician at the same Educational Institution.
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h2 align="center">GitHub Stats :bar_chart:</h2>
 
 <p align="center" id="top-langs">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedavi&layout=compact&title_color=03ADDF&bg_color=0D1117&text_color=fafafa">

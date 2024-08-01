@@ -6,7 +6,7 @@
 
 ## About me
 
-Currently studying the last year of the Bachelor of Science in Computer Science with Brazilian Teaching License at [Instituto Federal do Rio de Janeiro](https://portal.ifrj.edu.br). Expected graduation in December 2023.I am also a Computer Technician at the same Educational Institution.
+Currently studying the last year of the Bachelor of Science in Computer Science with Brazilian Teaching License at [Instituto Federal do Rio de Janeiro](https://portal.ifrj.edu.br). Expected graduation in March 2025. I am also a Computer Technician at the same Educational Institution.
 
 <h2 align="center">GitHub Stats :bar_chart:</h2>
 
